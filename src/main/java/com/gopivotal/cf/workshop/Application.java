@@ -1,5 +1,5 @@
 package com.gopivotal.cf.workshop;
-
+// This is a pointless comment
 import org.springframework.boot.SpringApplication;
 
 /**
